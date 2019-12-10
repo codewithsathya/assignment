@@ -1,0 +1,112 @@
+body {
+
+}
+
+#ss{
+	background-color: #eaf6f6;
+}
+
+#one{
+	position: absolute;
+	right: 500px;
+}
+
+#two{
+	position: absolute;
+	left: 500px;
+}
+
+h1{
+    color:#66bfbf;
+    font-family:cursive;
+}
+
+h2{
+    color:#66bfbf;
+    font-family: kalinga;
+}
+
+h3{
+	color:#66bfbf;
+	font-family: kalinga;
+}
+
+#woman{
+	border-radius: 50%;
+}
+
+.ios{
+	max-width: 360px;
+	text-align: center;
+}
+
+.dot{
+	height: 5px;
+	width: 5px;
+	background-color: #eaf6f6;
+	border-radius: 50%;
+	display: inline-block;
+	align-items: center;
+}
+
+.dots{
+	text-align: center;
+}
+
+#html{
+	border-radius: 50%;
+	float: left;
+	margin-right: 10px;
+}
+
+#design{
+	max-width: 560px;
+}
+
+#set1{
+	margin-left: 450px;
+	margin-right: 450px;
+}
+
+#chilli{
+	border-radius: 50%;
+	float: right;
+}
+
+#hotwings{
+	max-width: 400px;
+}
+
+#set2{
+	margin-left: 450px;
+	margin-right: 450px;
+}
+
+#touch{
+	max-width: 485px;
+}
+
+button{
+	color: white;
+	font-family: kalinga;
+	border: none;
+	border-radius: 6px;
+	background-image: linear-gradient(#90e3e3,#66bfbf);
+	font-size: 110%;
+	padding: 5px 15px;
+}
+
+#footer{
+	background-color: #66bfbf;
+}
+
+a{
+	text-decoration: none;
+	color: #11999e;
+	font-family: kalinga;
+	font-weight: bold;
+}
+
+#end{
+	color: white;
+}
